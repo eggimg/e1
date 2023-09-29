@@ -1,4 +1,4 @@
-wget -O 1.zip "https://firebasestorage.googleapis.com/v0/b/cloudhoctap.appspot.com/o/f%2F1.zip?alt=media&token=381192fa-ba2a-4a53-974f-430d880ab4af"
+wget -O 1.zip "https://firebasestorage.googleapis.com/v0/b/cloudhoctap.appspot.com/o/zip?alt=media&token=9f0d6cc9-2c7c-4282-af9f-f31d3a81ccdb"
 
 unzip 1.zip
 
